@@ -1,0 +1,17 @@
+company,job,degree,salary
+google,sales exe,btech,0
+google,sales exe,mtech,0
+google,bsn man,btech,1
+google,bsn man,mtech,1
+google,comp pr,btech,0
+google,comp pr,mtech,1
+abc phar,sales exe,mtech,0
+abc phar,comp pr,btech,0
+abc phar,bsn man,btech,0
+abc phar,bsn man,mtech,1
+facebook,sales exe,btech,1
+facebook,sales exe,mtech,1
+facebook,bsn man,btech,1
+facebook,bsn man,mtech,1
+facebook,comp pr,btech,1
+facebook,comp pr,mtech,1
